@@ -7,7 +7,7 @@ Hi there
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3> ช่องทางติดต่อ </h3>
+<h4> ช่องทางติดต่อ </h4>
 <div id="badges">
   <a href="https://www.instagram.com/23.litle/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="100" height="100" alt="ig"    />
