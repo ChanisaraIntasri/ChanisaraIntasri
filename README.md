@@ -8,7 +8,7 @@ Hi there
 - ⚡ Fun fact: ...
 <div id="badges">
   <a href="https://www.instagram.com/23.litle/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="ig"    width: 100% />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" width="300" height="200" alt="ig"    />
   </a>
   
 </div>
