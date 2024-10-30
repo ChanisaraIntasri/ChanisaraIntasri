@@ -1,5 +1,8 @@
 
 - 👋 Hi, I’m @Chanisara Intasri
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h4> ช่องทางติดต่อ </h4>
 <div id="badges">
@@ -9,6 +12,4 @@
   
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
