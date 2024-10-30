@@ -7,15 +7,10 @@ Hi there
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div id="badges">
-  <a href="(https://www.instagram.com/23.litle/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.instagram.com/23.litle/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" alt="ig"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 <!---
